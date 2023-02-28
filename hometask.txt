@@ -1,1 +1,2 @@
 Отличий вроде нет
+Свои комиты вижу их около 8, например Merge remote-tracking branch 'remotes/origin/hat' df455a7
